@@ -1,4 +1,4 @@
-# Cancer Patient Outcome Prediction Using Machine Learning
+# Head and Neck Cancer Patient Survival Prediction
 
 ## Course Information
 - **Course**: ECE-UY 4563 Introduction to Machine Learning
