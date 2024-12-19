@@ -7,7 +7,7 @@
 - **Instructor**: Prof. Sundeep Rangan
 
 ## Project Overview
-This project focuses on predicting cancer patient outcomes through binary survival classification using various machine learning approaches. We implemented and compared the performance of three different models:
+This project focuses on predicting cancer (specifically head and neck cancer) patient outcomes through binary survival classification using various machine learning approaches. We implemented and compared the performance of three different models:
 - Logistic Regression
 - Support Vector Machine (SVM)
 - Neural Network
