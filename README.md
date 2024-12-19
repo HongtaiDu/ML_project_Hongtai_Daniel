@@ -17,7 +17,9 @@ This project focuses on predicting cancer (specifically head and neck cancer) pa
 - Daniel Yang (ty2184@nyu.edu)
 
 ## Data Source
-The dataset used in this project was obtained from The Surveillance, Epidemiology, and End Results (SEER) Program. Due to data privacy and usage agreements, the sample dataset cannot be shared on GitHub.
+The dataset used in this project was obtained from The Surveillance, Epidemiology, and End Results (SEER) Program. Due to data privacy and usage agreements, the sample dataset cannot be uploaded on GitHub. Here are the insgtructions we get data samples:
+1. Search for SEER database in browser to register for an account and sumbit request access to SEER Data
+2. Check email for the download link, and install the software
 
 ## Models and Analysis
 We conducted a comparative analysis of three machine learning models:
