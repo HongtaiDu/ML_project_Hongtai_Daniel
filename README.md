@@ -1,4 +1,3 @@
-# ML_project_Hongtai_Daniel
 # Cancer Patient Outcome Prediction Using Machine Learning
 
 ## Course Information
