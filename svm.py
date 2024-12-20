@@ -47,7 +47,7 @@ X_scaled = scaler.fit_transform(X)
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
 
 # Step 8: Train the Support Vector Classifier
-svm_model = SVC(kernel='rbf', C=1.0, gamma='scale', random_state=42)  # RBF kernel for non-linear data
+svm_model = SVC(kernel='rbf', C=1.0, gamma='scale', random_state=42, probability=True)  # RBF kernel for non-linear data
 svm_model.fit(X_train, y_train)
 
 # Step 9: Make predictions
