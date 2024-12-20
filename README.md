@@ -22,7 +22,9 @@ The dataset used in this project was obtained from The Surveillance, Epidemiolog
 2. Check email for the download link, and install the software
 3. Click on FIle -> New -> Case Listing Session
 4. In "Data", select "Incidence - SEER Research Data, 17 Registries, Nov 2023 Sub (2000-2021)". Then move to "Selection".
-5. (add more instructions....)
+5. Choose following variables: Age recode with <1 year olds, Sex, Year of diagnosis, Race recode (W, B, AI, API), Primary Site, Histologic Type ICD-O-3, Combined Summary Stage (2004+), Surgery of oth reg/dis sites (1998-2002), Chemotherapy recode (yes, no/unk), Radiation recode, Vital status recode (study cutoff used), Survival months, SEER cause-specific death classification, Tumor Size Summary (2016+), EOD Primary Tumor (2018+), CS lymph nodes (2004-2015), CS tumor size (2004-2015)
+6. Execute file
+7. Export result matrix to csv or txt file
 
 ## Models and Analysis
 We conducted a comparative analysis of three machine learning models:
