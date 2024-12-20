@@ -21,6 +21,8 @@ The dataset used in this project was obtained from The Surveillance, Epidemiolog
 1. Search for SEER database in browser to register for an account and sumbit request access to SEER Data
 2. Check email for the download link, and install the software
 3. Click on FIle -> New -> Case Listing Session
+4. In "Data", select "Incidence - SEER Research Data, 17 Registries, Nov 2023 Sub (2000-2021)". Then move to "Selection".
+5. (add more instructions....)
 
 ## Models and Analysis
 We conducted a comparative analysis of three machine learning models:
